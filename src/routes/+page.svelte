@@ -462,7 +462,7 @@
 		flex-direction: column;
 		align-items: center;
 		// background-color: var(--bg);
-		background: url('backdrop.svg');
+		background: url('/backdrop.svg');
 		background-attachment: fixed;
 		background-size: cover;
 		z-index: 20;
