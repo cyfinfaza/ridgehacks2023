@@ -2,5 +2,5 @@
 	export let summary;
 </script>
 
-<strong>{summary}</strong>
+<p><strong>{summary}</strong></p>
 <slot />

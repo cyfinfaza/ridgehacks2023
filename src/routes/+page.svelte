@@ -527,6 +527,21 @@
 		}
 	}
 
+	.sponsorLogoList,
+	.pastSponsorLogoList {
+		img {
+			padding: 8px;
+			border-radius: 8px;
+			// background-color: #fff;
+			height: 100%;
+			width: 100%;
+		}
+		a {
+			width: 100%;
+			height: 100%;
+		}
+	}
+
 	.organizersList {
 		@include responsive-grid(250px);
 	}
@@ -562,5 +577,10 @@
 		box-sizing: border-box;
 		width: 100%;
 		margin-bottom: 1rem;
+	}
+
+	:global(#sponsors) {
+		background-color: #fffc;
+		color: black;
 	}
 </style>
