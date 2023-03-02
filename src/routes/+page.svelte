@@ -7,7 +7,7 @@
 	let scrolled = false;
 	onMount(() => {
 		window.onscroll = (_) => {
-			scrolled = window.scrollY > 32;
+			scrolled = window.scrollY > 40;
 		};
 	});
 </script>
@@ -22,7 +22,7 @@
 					top: 0,
 					behavior: 'smooth'
 				});
-			}, 10);
+			}, 40);
 		}}
 		href="#"
 	>
@@ -40,6 +40,7 @@
 		<span class="material-icons">expand_less</span>
 	</a>
 	<div class="links">
+		
 		<a href="#schedule">Schedule</a>
 		<a href="#event-details">Event Details</a>
 		<a href="#what-is-a-hackathon">What is a Hackathon?</a>
@@ -48,116 +49,173 @@
 	</div>
 	<div class="sections">
 		<Section id="home">
-			<h1>RidgeHacks 2023 - <span style="font-weight: 400">April 1st, 2023</span></h1>
+		 <h1><span style="color:#AFE9C6;"> RidgeHacks 2023</span> - <span style="font-weight:400;">April 1st, 2023</span></h1> 
 			<p>
-				After the pandemic forced us to cancel RidgeHacks 2020 and 2021,
-				<b>we're back!</b> <br />
-				<br />
-				RidgeHacks 2022 is Ridge High School's premier (and only) Hackathon led by the Ridge Computer
-				Science Club. This year, we are following a single day schedule and keeping the Hackathon open.
+				Ridgehacks 2023 is Ridge High School's premier annual Hackathon led by the Ridge Computer
+				Science Club. Following a single day, <b> 12-hour hacking schedule </b>, Ridgehacks offers a free hackathon for Middle and High School Students from <b>8:00 AM until 10:00 PM</b>. 
+				
+<br />
+<br />
 				From all of us at RCSC, happy hacking and we hope to see you there!
+
+
 			</p>
 		</Section>
 		<Section id="schedule">
-			<h1>Schedule</h1>
-			<p>
-				We know tables are hard to read (hell, they're hard to make), but every little workshop or
-				event can be found here!
-			</p>
+			<h1><span style="color:#AFE9C6;">Schedule </span></h1>
+
 			<table class="scheduleTable">
-				<tr>
+				<thead>
 					<th>Time</th>
 					<th>Hacking/Main Areas</th>
 					<th>Lecture Hall A</th>
 					<th>Room 701</th>
-					<th>Atrium</th>
-					<th>Cafeteria</th>
-				</tr>
+					<th>PAC</th>
+				</thead>
 				<tr>
 					<td>8:00 AM</td>
-					<td>Opening Ceremony</td>
+					<td>Doors Open For Participants</td>
+					<td />
+					<td />
+					<td />
 				</tr>
 				<tr>
 					<td>8:30 AM</td>
-					<td>Start Hacking/Breakfast</td>
-					<td>echo3D Workshop</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>Opening Ceremony</td>
+
+				</tr>
+				<tr>
+					<td>9:00 AM</td>
+					<td>Hacking begins</td>
 					<td>Python Workshop</td>
+					<td></td>
+					<td />
+					<td />
+
 				</tr>
 				<tr>
 					<td>10:00 AM</td>
 					<td>Continue Hacking!</td>
-					<td>Git Workshop</td>
-					<td>Web Development Workshop</td>
+					<td />
+					<td />
+					<td>EEC Speaker<td />
+				</tr>
+				<tr>
+					<td>11:00 AM</td>
+					<td></td>
+					<td></td>
+					<td >Web Development Workshop </td>
+					<td />
+					<td />
+
 				</tr>
 				<tr>
 					<td>12:00 PM</td>
 					<td>Lunch</td>
 					<td />
+					<td></td>
 					<td />
 					<td />
-					<td>Smash Tournament (Join After Eating)</td>
+
 				</tr>
 				<tr>
-					<td>2:00 PM</td>
+					<td>1:00 PM</td>
 					<td>Continue Hacking!</td>
-					<td>Cyber Security Workshop</td>
+					<td >Verizon Green Tech</td>
+					<td />
+					<td></td>
+					<td />
+
 				</tr>
 				<tr>
-					<td>4:00 PM</td>
+					<td>3:00 PM</td>
 					<td>Continue Hacking!</td>
+					<td >Cyber-Case Study</td>
 					<td />
-					<td>Consumer Electronics/Device Repair Workshop</td>
 					<td />
+					<td />
+
 				</tr>
 				<tr>
-					<td>5:30 PM</td>
+					<td>5:00 PM</td>
 					<td>Continue Hacking!</td>
 					<td />
+					<td > Code challenge </td>
 					<td />
-					<td>Cup Stacking</td>
+					<td />
+
 				</tr>
 				<tr>
 					<td>6:00 PM</td>
 					<td>Dinner</td>
+					<td />
+					<td ></td>
+					<td />
+					<td />
 				</tr>
 				<tr>
-					<td>8:30 PM</td>
-					<td>Hacking Ends/Judging Starts</td>
+					<td>8:00 PM</td>
+					<td>Hardstop Hacking</td>
+					<td />
+					<td />
+					<td />
+					<td />
+
+				</tr>
+				<tr>
+					<td>8:45 PM</td>
+					<td></td>
+					<td />
+					<td />
+					<td >Finalist Presentations</td>
+					<td />
+
+				</tr>
+				<tr>
+					<td>9:45 PM</td>
+					<td></td>
+					<td />
+					<td />
+					<td >Closing Ceremony </td>
+					<td />
+
 				</tr>
 				<tr>
 					<td>10:00 PM</td>
-					<td>Closing Ceremony</td>
-				</tr>
-				<tr>
-					<td>10:30 PM</td>
 					<td>Event Ends</td>
+					<td />
+					<td />
+					<td />
+					<td />
+
 				</tr>
 			</table>
 		</Section>
 		<Section id="event-details">
-			<h1>Details</h1>
+			<h1><span style="color:#AFE9C6;">Details</span></h1>
 			<div>
-				<p><strong>Date:</strong> April 9th, 2022</p>
+				<p><span style="color:#AFE9C6;"><strong>Date:</strong> </span> April 1st, 2023</p>
 				<p>
-					<strong>Who can attend:</strong> Any middle school or high school student who's down to make
-					something awesome. Or anything tech, or programming related really. The name's a misnomer…
+					<span style="color:#AFE9C6;"><strong>Who can attend:</strong></span> Any Middle school or High School student who's down to make
+					something awesome. Or anything tech, or programming related really (please reach out if you are an elementary student interested in attending).
 				</p>
 				<p>
-					<strong>Cost to attend:</strong> Free! Unless you count the cost of the soul-crushing act of
-					typing on laptop keyboards all day.
+					<span style="color:#AFE9C6;"><strong>Cost to attend:</strong> </span>Free!
 				</p>
 				<p>
-					<strong>Location:</strong> Ridge High School (268 South Finley Avenue, Basking Ridge, NJ).
+					<span style="color:#AFE9C6;"><strong>Location:</strong></span> Ridge High School (268 South Finley Avenue, Basking Ridge, NJ).
 				</p>
 				<p>
-					<strong>
-						See the FAQ for details on where to enter (and park if you plan on driving yourself).</strong
-					>
+					<span style="color:#AFE9C6;"></span><strong>
+						See the FAQ for details on where to enter (and park if you plan on driving yourself). </strong>
 				</p>
 			</div>
 		</Section>
 		<Section id="what-is-a-hackathon">
-			<h1>What is a Hackathon?</h1>
+			<h1><span style="color:#AFE9C6;">What is a Hackathon?</span></h1>
 			<p>
 				A hackathon is an event where students individually or collaboratively create innovative
 				solutions with technology, often using hardware, software, or both! Students present and
@@ -168,7 +226,8 @@
 			</p>
 		</Section>
 		<Section id="faq">
-			<h1>FAQ</h1>
+			<h1><span style="color:#AFE9C6;">FAQ</span></h1>
+
 			<FaqElement summary={'Where can I park/where do I enter the building?'}>
 				<p>
 					Please consult this image for more information (you can put this into perspective by
@@ -180,7 +239,7 @@
 			<FaqElement summary={"Where do we get updates/communicate with y'all?"}>
 				<p>
 					Discord! Make sure to join our server
-					<a href="https://discord.gg/zMjdnDjcfA">here</a>.
+					<a href="https://discord.gg/NDpKwGG5Np">here</a>.
 				</p>
 			</FaqElement>
 
@@ -194,7 +253,7 @@
 
 			<FaqElement summary={'How long is the event? When is it? Where is it?'}>
 				<p>
-					It's on April 9th, 2022 from 8:00AM-10:30PM. It's at Ridge High School. You can find the
+					It's on April 1st, 2022 from 8:00AM-10:00PM. It's at Ridge High School. You can find the
 					address for our hackathon
 					<a href="#event-details">here</a>.
 				</p>
@@ -209,7 +268,7 @@
 
 			<FaqElement summary={"What's in it for me?"}>
 				<p>
-					Well, the clout and prestige of winning RidgeHacks. And of course, we do have prizes.
+					Well, the clout and prestige of winning Ridgehacks(college). And of course, we do have prizes.
 					You'll have to show up to find out what they are though.
 				</p>
 			</FaqElement>
@@ -226,19 +285,27 @@
 			<p>Looking to sponsor? Contact us at team@ridgehacks.us.</p>
 			<h2>Emerald Sponsors</h2>
 			<div id={'emerald-sponsors'} class="sponsorLogoList">
-				<a href="https://www.digitalocean.com/" target="_">
-					<img src={`sponsors/digitalocean_2022.svg`} />
-				</a>
+	
 			</div>
 
 			<h2>Gold Sponsors</h2>
 			<div id={'gold-sponsors'} class="sponsorLogoList">
-				<a href="https://www.hokecapital.com/" target="_">
-					<img src={`sponsors/hcmlogo-bg.png`} />
-				</a>
+
 			</div>
 			<h2>Silver Sponsors</h2>
 			<div id={'silver-sponsors'} class="sponsorLogoList">
+
+			</div>
+
+			<h2>Past Sponsors</h2>
+			<p>RidgeHacks 2019 and 2022 would not have been possible without these sponsors.</p>
+			<div class="pastSponsorLogoList">
+				<a href="https://www.digitalocean.com/" target="_">
+					<img src={`sponsors/digitalocean_2022.svg`} />
+				</a>
+				<a href="https://www.hokecapital.com/" target="_">
+					<img src={`sponsors/hcmlogo-bg.png`} />
+				</a>
 				<a href="https://www.njspba.com/" target="_">
 					<img src={`sponsors/PBA.png`} />
 				</a>
@@ -260,10 +327,6 @@
 				<a href="https://www.artofproblemsolving.com/" target="_">
 					<img src={`sponsors/aops.png`} />
 				</a>
-			</div>
-			<h2>Past Sponsors</h2>
-			<p>RidgeHacks 2019 would not have been possible without these sponsors.</p>
-			<div class="pastSponsorLogoList">
 				<img src={`/sponsors/brba.png`} />
 				<img src={`/sponsors/computersharp.png`} />
 				<img src={`/sponsors/LGS.gif`} />
@@ -276,20 +339,9 @@
 				<img src={`/sponsors/starbucks.png`} />
 				<img src={`/sponsors/temboo.png`} />
 				<img src={`/sponsors/bernardsvilleprint.png`} />
-				<img src={`/sponsors/digitalocean.png`} />
 				<img src={`/sponsors/sketch.png`} />
 			</div>
-			<p>
-				While RidgeHacks 2020 had to be cancelled due to COVID-19, we're very thankful for our
-				sponsors that would have sponsored us that year.
-			</p>
-			<div class="pastSponsorLogoList">
-				<img src={`/sponsors/GAR_LOGO.svg`} />
-				<img src={`/sponsors/balsamiq.png`} />
-				<img src={`/sponsors/blueskykids.png`} />
-				<img src={`/sponsors/eliteadvantageprep.png`} />
-				<img src={`/sponsors/aops.png`} />
-			</div>
+
 		</Section>
 		<Section>
 			<h1>The Organizers</h1>
@@ -468,7 +520,7 @@
 		z-index: 20;
 		position: relative;
 		> :global(.section) {
-			background-color: #0004;
+			background-color: #50717ba5;
 			backdrop-filter: blur(24px);
 		}
 	}
