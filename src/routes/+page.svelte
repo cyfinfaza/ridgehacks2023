@@ -49,7 +49,7 @@
 	<div class="sections">
 		<Section id="home">
 			<h1>
-				<span style="color:#AFE9C6;"> RidgeHacks 2023</span> -
+				<span style="color:var(--text-accent);"> RidgeHacks 2023</span> -
 				<span style="font-weight:400;">April 1st, 2023</span>
 			</h1>
 			<p>
@@ -63,7 +63,7 @@
 			</p>
 		</Section>
 		<Section id="schedule">
-			<h1><span style="color:#AFE9C6;">Schedule </span></h1>
+			<h1><span style="color:var(--text-accent);">Schedule </span></h1>
 
 			<table class="scheduleTable">
 				<thead>
@@ -185,30 +185,32 @@
 			</table>
 		</Section>
 		<Section id="event-details">
-			<h1><span style="color:#AFE9C6;">Details</span></h1>
+			<h1><span style="color:var(--text-accent);">Details</span></h1>
 			<div>
-				<p><span style="color:#AFE9C6;"><strong>Date:</strong> </span> April 1st, 2023</p>
 				<p>
-					<span style="color:#AFE9C6;"><strong>Who can attend:</strong></span> Any Middle school or High
-					School student who's down to make something awesome. Or anything tech, or programming related
-					really (please reach out if you are an elementary student interested in attending).
+					<span style="color:var(--text-accent);"><strong>Date:</strong> </span> April 1st, 2023
 				</p>
 				<p>
-					<span style="color:#AFE9C6;"><strong>Cost to attend:</strong> </span>Free!
+					<span style="color:var(--text-accent);"><strong>Who can attend:</strong></span> Any Middle
+					school or High School student who's down to make something awesome. Or anything tech, or programming
+					related really (please reach out if you are an elementary student interested in attending).
 				</p>
 				<p>
-					<span style="color:#AFE9C6;"><strong>Location:</strong></span> Ridge High School (268 South
-					Finley Avenue, Basking Ridge, NJ).
+					<span style="color:var(--text-accent);"><strong>Cost to attend:</strong> </span>Free!
 				</p>
 				<p>
-					<span style="color:#AFE9C6;" /><strong>
+					<span style="color:var(--text-accent);"><strong>Location:</strong></span> Ridge High School
+					(268 South Finley Avenue, Basking Ridge, NJ).
+				</p>
+				<p>
+					<span style="color:var(--text-accent);" /><strong>
 						See the FAQ for details on where to enter (and park if you plan on driving yourself).
 					</strong>
 				</p>
 			</div>
 		</Section>
 		<Section id="what-is-a-hackathon">
-			<h1><span style="color:#AFE9C6;">What is a Hackathon?</span></h1>
+			<h1><span style="color:var(--text-accent);">What is a Hackathon?</span></h1>
 			<p>
 				A hackathon is an event where students individually or collaboratively create innovative
 				solutions with technology, often using hardware, software, or both! Students present and
@@ -219,7 +221,7 @@
 			</p>
 		</Section>
 		<Section id="faq">
-			<h1><span style="color:#AFE9C6;">FAQ</span></h1>
+			<h1><span style="color:var(--text-accent);">FAQ</span></h1>
 
 			<FaqElement summary={'Where can I park/where do I enter the building?'}>
 				<p>

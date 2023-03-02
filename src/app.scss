@@ -11,7 +11,7 @@ body {
 	--text: var(--text-light);
 	--section-spacing: 16px;
 	--logo-height: 55px;
-	--logo-color: #AFE9C6
+	--text-accent: #afe9c6;
 	--text: #eee5e9;
 	--bg: #041404;
 	--fg: rgb(50, 80, 81);
@@ -19,20 +19,16 @@ body {
 	color: var(--text);
 }
 
-
 td {
-    border-top: 2px solid rgba(255, 255, 255, 0.5);
-    border-bottom: 2px solid rgba(255, 255, 255, 0.5);
-    padding: 50px;
-    text-align: center;
+	border-top: 2px solid rgba(255, 255, 255, 0.5);
+	border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+	padding: 50px;
+	text-align: center;
 }
-thead{
-	color: #AFE9C6;
+thead {
+	color: var(--text-accent);
 	white-space: 50px;
 }
-
-
-
 
 :root {
 	scroll-behavior: smooth;
@@ -51,4 +47,3 @@ a {
 .😡 {
 	display: none;
 }
-
