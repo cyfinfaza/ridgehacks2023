@@ -40,7 +40,6 @@
 		<span class="material-icons">expand_less</span>
 	</a>
 	<div class="links">
-		
 		<a href="#schedule">Schedule</a>
 		<a href="#event-details">Event Details</a>
 		<a href="#what-is-a-hackathon">What is a Hackathon?</a>
@@ -49,16 +48,18 @@
 	</div>
 	<div class="sections">
 		<Section id="home">
-		 <h1><span style="color:#AFE9C6;"> RidgeHacks 2023</span> - <span style="font-weight:400;">April 1st, 2023</span></h1> 
+			<h1>
+				<span style="color:#AFE9C6;"> RidgeHacks 2023</span> -
+				<span style="font-weight:400;">April 1st, 2023</span>
+			</h1>
 			<p>
 				Ridgehacks 2023 is Ridge High School's premier annual Hackathon led by the Ridge Computer
-				Science Club. Following a single day, <b> 12-hour hacking schedule </b>, Ridgehacks offers a free hackathon for Middle and High School Students from <b>8:00 AM until 10:00 PM</b>. 
-				
-<br />
-<br />
+				Science Club. Following a single day, <b> 12-hour hacking schedule </b>, Ridgehacks offers a
+				free hackathon for Middle and High School Students from <b>8:00 AM until 10:00 PM</b>.
+
+				<br />
+				<br />
 				From all of us at RCSC, happy hacking and we hope to see you there!
-
-
 			</p>
 		</Section>
 		<Section id="schedule">
@@ -81,78 +82,71 @@
 				</tr>
 				<tr>
 					<td>8:30 AM</td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td />
+					<td />
+					<td />
 					<td>Opening Ceremony</td>
-
 				</tr>
 				<tr>
 					<td>9:00 AM</td>
 					<td>Hacking begins</td>
 					<td>Python Workshop</td>
-					<td></td>
 					<td />
 					<td />
-
+					<td />
 				</tr>
 				<tr>
 					<td>10:00 AM</td>
 					<td>Continue Hacking!</td>
 					<td />
 					<td />
-					<td>EEC Speaker<td />
+					<td>EEC Speaker</td><td />
 				</tr>
 				<tr>
 					<td>11:00 AM</td>
-					<td></td>
-					<td></td>
-					<td >Web Development Workshop </td>
 					<td />
 					<td />
-
+					<td>Web Development Workshop </td>
+					<td />
+					<td />
 				</tr>
 				<tr>
 					<td>12:00 PM</td>
 					<td>Lunch</td>
 					<td />
-					<td></td>
 					<td />
 					<td />
-
+					<td />
 				</tr>
 				<tr>
 					<td>1:00 PM</td>
 					<td>Continue Hacking!</td>
-					<td >Verizon Green Tech</td>
+					<td>Verizon Green Tech</td>
 					<td />
-					<td></td>
 					<td />
-
+					<td />
 				</tr>
 				<tr>
 					<td>3:00 PM</td>
 					<td>Continue Hacking!</td>
-					<td >Cyber-Case Study</td>
+					<td>Cyber-Case Study</td>
 					<td />
 					<td />
 					<td />
-
 				</tr>
 				<tr>
 					<td>5:00 PM</td>
 					<td>Continue Hacking!</td>
 					<td />
-					<td > Code challenge </td>
+					<td> Code challenge </td>
 					<td />
 					<td />
-
 				</tr>
 				<tr>
 					<td>6:00 PM</td>
 					<td>Dinner</td>
 					<td />
-					<td ></td>
+					<td />
 					<td />
 					<td />
 				</tr>
@@ -163,25 +157,22 @@
 					<td />
 					<td />
 					<td />
-
 				</tr>
 				<tr>
 					<td>8:45 PM</td>
-					<td></td>
 					<td />
 					<td />
-					<td >Finalist Presentations</td>
 					<td />
-
+					<td>Finalist Presentations</td>
+					<td />
 				</tr>
 				<tr>
 					<td>9:45 PM</td>
-					<td></td>
 					<td />
 					<td />
-					<td >Closing Ceremony </td>
 					<td />
-
+					<td>Closing Ceremony </td>
+					<td />
 				</tr>
 				<tr>
 					<td>10:00 PM</td>
@@ -190,7 +181,6 @@
 					<td />
 					<td />
 					<td />
-
 				</tr>
 			</table>
 		</Section>
@@ -199,18 +189,21 @@
 			<div>
 				<p><span style="color:#AFE9C6;"><strong>Date:</strong> </span> April 1st, 2023</p>
 				<p>
-					<span style="color:#AFE9C6;"><strong>Who can attend:</strong></span> Any Middle school or High School student who's down to make
-					something awesome. Or anything tech, or programming related really (please reach out if you are an elementary student interested in attending).
+					<span style="color:#AFE9C6;"><strong>Who can attend:</strong></span> Any Middle school or High
+					School student who's down to make something awesome. Or anything tech, or programming related
+					really (please reach out if you are an elementary student interested in attending).
 				</p>
 				<p>
 					<span style="color:#AFE9C6;"><strong>Cost to attend:</strong> </span>Free!
 				</p>
 				<p>
-					<span style="color:#AFE9C6;"><strong>Location:</strong></span> Ridge High School (268 South Finley Avenue, Basking Ridge, NJ).
+					<span style="color:#AFE9C6;"><strong>Location:</strong></span> Ridge High School (268 South
+					Finley Avenue, Basking Ridge, NJ).
 				</p>
 				<p>
-					<span style="color:#AFE9C6;"></span><strong>
-						See the FAQ for details on where to enter (and park if you plan on driving yourself). </strong>
+					<span style="color:#AFE9C6;" /><strong>
+						See the FAQ for details on where to enter (and park if you plan on driving yourself).
+					</strong>
 				</p>
 			</div>
 		</Section>
@@ -268,8 +261,8 @@
 
 			<FaqElement summary={"What's in it for me?"}>
 				<p>
-					Well, the clout and prestige of winning Ridgehacks(college). And of course, we do have prizes.
-					You'll have to show up to find out what they are though.
+					Well, the clout and prestige of winning Ridgehacks(college). And of course, we do have
+					prizes. You'll have to show up to find out what they are though.
 				</p>
 			</FaqElement>
 
@@ -284,18 +277,12 @@
 			<h1>Sponsors</h1>
 			<p>Looking to sponsor? Contact us at team@ridgehacks.us.</p>
 			<h2>Emerald Sponsors</h2>
-			<div id={'emerald-sponsors'} class="sponsorLogoList">
-	
-			</div>
+			<div id={'emerald-sponsors'} class="sponsorLogoList" />
 
 			<h2>Gold Sponsors</h2>
-			<div id={'gold-sponsors'} class="sponsorLogoList">
-
-			</div>
+			<div id={'gold-sponsors'} class="sponsorLogoList" />
 			<h2>Silver Sponsors</h2>
-			<div id={'silver-sponsors'} class="sponsorLogoList">
-
-			</div>
+			<div id={'silver-sponsors'} class="sponsorLogoList" />
 
 			<h2>Past Sponsors</h2>
 			<p>RidgeHacks 2019 and 2022 would not have been possible without these sponsors.</p>
@@ -341,7 +328,6 @@
 				<img src={`/sponsors/bernardsvilleprint.png`} />
 				<img src={`/sponsors/sketch.png`} />
 			</div>
-
 		</Section>
 		<Section>
 			<h1>The Organizers</h1>
@@ -513,15 +499,11 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		// background-color: var(--bg);
-		background: url('/backdrop.svg');
-		background-attachment: fixed;
-		background-size: cover;
+		background: var(--bg);
 		z-index: 20;
 		position: relative;
 		> :global(.section) {
-			background-color: #50717ba5;
-			backdrop-filter: blur(24px);
+			background-color: var(--fg);
 		}
 	}
 

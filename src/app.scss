@@ -9,11 +9,12 @@ body {
 	--text-light: #eee5e9;
 	--text-dark: #383d36;
 	--text: var(--text-light);
-	--section-spacing: 10px;
-	--logo-height: 65px;
+	--section-spacing: 16px;
+	--logo-height: 55px;
 	--logo-color: #AFE9C6
 	--text: #eee5e9;
 	--bg: #041404;
+	--fg: rgb(50, 80, 81);
 	background-color: var(--bg);
 	color: var(--text);
 }
