@@ -10,10 +10,10 @@
 
 	onMount(() => {
 		mapboxgl.accessToken =
-			'pk.eyJ1IjoiY3lmaW5mYXphIiwiYSI6ImNrYXBwN2N4ZTEyd3gycHF0bHhzZXIwcWEifQ.8Dx5dx27ity49fAGyZNzPQ';
+			'pk.eyJ1IjoicmlkZ2Vjb21wc2NpIiwiYSI6ImNsZXJrcW5oODB5MDI0M3Rra3YzMXJmNzAifQ.92W1OyJckS4MCg0DCwqxXg';
 		const map = new mapboxgl.Map({
 			container: mapContainer,
-			style: 'mapbox://styles/cyfinfaza/clerkfmgw002701o13qf06k87', // style URL
+			style: 'mapbox://styles/ridgecompsci/clerkqzw9002h01r31zzvxvh0', // style URL
 			center: [-74.5465931, 40.6948376],
 			zoom: 18
 		});
