@@ -1,6 +1,7 @@
 <script>
 	import { onMount } from 'svelte';
 	import FaqElement from '../components/FaqElement.svelte';
+	import MapPane from '../components/MapPane.svelte';
 	import OrganizerProfile from '../components/OrganizerProfile.svelte';
 	import Section from '../components/Section.svelte';
 
@@ -44,6 +45,7 @@
 		<a href="#event-details">Event Details</a>
 		<a href="#what-is-a-hackathon">What is a Hackathon?</a>
 		<a href="#faq">FAQ</a>
+		<a href="#map">Map</a>
 		<a href="#sponsors">Sponsors</a>
 	</div>
 	<div class="sections">
@@ -228,7 +230,6 @@
 					Please consult this image for more information (you can put this into perspective by
 					looking at Google Maps or similar).
 				</p>
-				<img class="ridgeMap" src={'/ridgemap.jpg'} /> <br /><br />
 			</FaqElement>
 
 			<FaqElement summary={"Where do we get updates/communicate with y'all?"}>
@@ -275,6 +276,7 @@
 				</p>
 			</FaqElement>
 		</Section>
+		<MapPane />
 		<Section id={'sponsors'}>
 			<h1>Sponsors</h1>
 			<p>Looking to sponsor? Contact us at team@ridgehacks.us.</p>
