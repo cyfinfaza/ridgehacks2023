@@ -10,19 +10,20 @@
 
 	onMount(() => {
 		mapboxgl.accessToken =
-			'pk.eyJ1IjoicmlkZ2Vjb21wc2NpIiwiYSI6ImNsZXJrcW5oODB5MDI0M3Rra3YzMXJmNzAifQ.92W1OyJckS4MCg0DCwqxXg';
+			'pk.eyJ1IjoiYWxwaG9uc2U1IiwiYSI6ImNrcGU2YnJvODFrcHMycHBnMTZ3NWQ2d3EifQ.6giPwg07RZdYWFEvdYe32A';
 		const map = new mapboxgl.Map({
 			container: mapContainer,
-			style: 'mapbox://styles/ridgecompsci/clerkqzw9002h01r31zzvxvh0', // style URL
+			style: 'mapbox://styles/alphonse5/cleqda8m0003y01qlfhr22bgh', // style URL
 			center: [-74.5465931, 40.6948376],
 			zoom: 18
 		});
 	});
 </script>
 
+
 <Section id="map">
 	<div class="mapContainer" bind:this={mapContainer} />
-	<h1>Map</h1>
+	<h1><span style="color:var(--text-accent);">Map</span></h1>
 </Section>
 
 <style lang="scss">
