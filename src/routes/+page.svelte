@@ -185,6 +185,7 @@
 					<td />
 				</tr>
 			</table>
+			<center><h3><span style="color:var(--text-accent);">Media Center Open for quiet hacking at all times </span></h3></center>
 		</Section>
 		<Section id="event-details">
 			<h1><span style="color:var(--text-accent);">Details</span></h1>
@@ -337,45 +338,46 @@
 			<h1>The Organizers</h1>
 			<div class="organizersList">
 				<OrganizerProfile
-					fullName="Ramesh Balaji"
-					role="President of RidgeHacks"
-					image="ramesh.jpg"
-				/>
-				<OrganizerProfile
-					fullName="Kevin Li"
-					role="Vice President of RidgeHacks"
-					image="kevin.png"
+					fullName="Michael Moschello"
+					role="President of Ridgehacks"
+					image="michael.jpg"
 				/>
 				<OrganizerProfile
 					fullName="Benjamin Chee"
-					role="RidgeHacks Event Organizer"
+					role="Director of Ridgehacks"
 					image="Benjamin Chee.png"
 				/>
 				<OrganizerProfile
 					fullName="Akhil Vanka"
-					role="RidgeHacks Technical Manager"
+					role="Ridgehacks Club Director"
 					image="akhil.jpg"
 				/>
 				<OrganizerProfile
-					fullName="Jessica Liu"
-					role="RidgeHacks Graphic Designer"
-					image="jessica.jpg"
+					fullName="Kevin Li"
+					role="Director of Education"
+					image="kevin.png"
 				/>
 				<OrganizerProfile
-					fullName="Leilani Johnson"
-					role="RidgeHacks Outreach"
-					image="leilani.jpg"
+					fullName="Cy Westbrook"
+					role="Technical Director"
+					image="cy.jpg"
 				/>
 				<OrganizerProfile
-					fullName="Michael Moschello"
-					role="RidgeHacks Outreach"
-					image="michael.jpg"
-				/>
-				<OrganizerProfile fullName="Cy Westbrook" role="RidgeHacks Web Developer" image="cy.jpg" />
-				<OrganizerProfile
-					fullName="Jimmy Bao"
-					role="RidgeHacks Treasurer"
+					fullName="Rachel Li"
+					role="Lead Graphic Designer"
 					image="placeholder.jpg"
+				/>
+				<OrganizerProfile
+					fullName="Duc Nguyen"
+					role="Lead Coordinator"
+					image="placeholder.jpg"
+
+				/>
+				<OrganizerProfile
+					fullName="Brandon Li"
+					role="Volunteer Coordinator"
+					image="placeholder.jpg"
+
 				/>
 			</div>
 		</Section>
