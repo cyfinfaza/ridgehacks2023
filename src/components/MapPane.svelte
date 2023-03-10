@@ -25,6 +25,9 @@
 			showUserHeading: true
 		});
 		map.addControl(geolocate);
+		const navigation = new mapboxgl.NavigationControl();
+		map.addControl(navigation);
+		map.scrollZoom.disable();
 	});
 </script>
 
@@ -41,6 +44,11 @@
 		overflow: hidden;
 		justify-content: unset;
 	}
+	:global(.mapboxgl-control-container) {
+		position: static;
+		z-index: 10;
+		width: 100%;
+	}
 	.mapContainer {
 		position: absolute;
 		inset: 0;
@@ -49,5 +57,9 @@
 		z-index: 5;
 		position: relative;
 		text-shadow: 0 0 5px black;
+	}
+	h1 {
+		align-self: flex-start;
+		pointer-events: none;
 	}
 </style>
