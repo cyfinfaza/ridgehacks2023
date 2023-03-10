@@ -281,13 +281,25 @@
 		<Section id={'sponsors'}>
 			<h1>Sponsors</h1>
 			<p>Looking to sponsor? Contact us at team@ridgehacks.us.</p>
+
 			<h2>Emerald Sponsors</h2>
 			<div id={'emerald-sponsors'} class="sponsorLogoList" />
+			<a href="https://mlh.io/" target="_">
+				<img src={`sponsors/mlh.png`} />
+			</a>
 
 			<h2>Gold Sponsors</h2>
 			<div id={'gold-sponsors'} class="sponsorLogoList" />
+
+			<a href="https://www.njspba.com/" target="_">
+				<img src={`sponsors/PBA.png`} />
+			</a>
+
+
 			<h2>Silver Sponsors</h2>
 			<div id={'silver-sponsors'} class="sponsorLogoList" />
+			<h2>Bronze Sponsors</h2>
+			<div id={'bronze-sponsors'} class="sponsorLogoList" />
 
 			<h2>Past Sponsors</h2>
 			<p>RidgeHacks 2019 and 2022 would not have been possible without these sponsors.</p>
