@@ -133,7 +133,7 @@
 				<tr>
 					<td>1:00 PM</td>
 					<td>Continue Hacking!</td>
-					<td>Verizon Green Tech</td>
+					<td>Verizon Green Tech Speakers</td>
 					<td />
 					<td />
 					<td />
@@ -141,7 +141,7 @@
 				<tr>
 					<td>3:00 PM</td>
 					<td>Continue Hacking!</td>
-					<td>Cyber-Case Study</td>
+					<td>Cyber-Case Study Speaker</td>
 					<td />
 					<td />
 					<td />
@@ -150,7 +150,7 @@
 					<td>5:00 PM</td>
 					<td>Continue Hacking!</td>
 					<td />
-					<td> Code challenge </td>
+					<td>CS Carrier Speaker</td>
 					<td />
 					<td />
 				</tr>
