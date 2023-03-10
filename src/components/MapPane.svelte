@@ -23,7 +23,6 @@
 
 <Section id="map">
 	<div class="mapContainer" bind:this={mapContainer} />
-	<h1><span style="color:var(--text-accent);">Map</span></h1>
 </Section>
 
 <style lang="scss">

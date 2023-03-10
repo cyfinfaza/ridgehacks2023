@@ -47,6 +47,7 @@
 		<a href="#faq">FAQ</a>
 		<a href="#map">Map</a>
 		<a href="#sponsors">Sponsors</a>
+		<a style="color:var(--text-accent);"href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">Register </a>
 	</div>
 	<div class="sections">
 		<Section id="home">
@@ -62,6 +63,15 @@
 				<br />
 				<br />
 				From all of us at RCSC, happy hacking and we hope to see you there!
+			</p>
+
+			<p>
+				<b>
+				Make sure to sign-up
+				<span style="color:var(--text-accent);">
+				<a href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">here!</a>.
+				</span>
+			</b>
 			</p>
 		</Section>
 		<Section id="schedule">
@@ -228,8 +238,7 @@
 
 			<FaqElement summary={'Where can I park/where do I enter the building?'}>
 				<p>
-					Please consult this image for more information (you can put this into perspective by
-					looking at Google Maps or similar).
+					Please consult the map below. Make sure to enter the building through the Performing Arts Center (PAC).
 				</p>
 			</FaqElement>
 
@@ -259,7 +268,7 @@
 			<FaqElement summary={'What can I make?'}>
 				<p>
 					Anything. Software, hardware, middleware, malware, anything that ends with “ware” and
-					starts with you typing lines of code. And even more than that.
+					starts with you typing lines of code. And even more than that!
 				</p>
 			</FaqElement>
 
@@ -283,24 +292,65 @@
 			<p>Looking to sponsor? Contact us at team@ridgehacks.us.</p>
 
 			<h2>Emerald Sponsors</h2>
-			<div id={'emerald-sponsors'} class="sponsorLogoList" />
+			<div id={'emerald-sponsors'} class="sponsorLogoList">
 			<a href="https://mlh.io/" target="_">
 				<img src={`sponsors/mlh.png`} />
 			</a>
+			</div>
 
 			<h2>Gold Sponsors</h2>
-			<div id={'gold-sponsors'} class="sponsorLogoList" />
+			<div id={'gold-sponsors'} class="goldSponsorLogoList">
 
 			<a href="https://www.njspba.com/" target="_">
 				<img src={`sponsors/PBA.png`} />
 			</a>
-
+			<a href="https://www.perrottis.com" target="_">
+				<img src={`sponsors/perrottis.png`} />
+			</a>
+			<a href="https://www.bernardscafe.com/" target="_">
+				<img src={`sponsors/bercafe.png`} />
+			</a>
+			<a href="https://automationroboticsarduino.com/" target="_">
+				<img src={`sponsors/gar.png`} />
+			</a>
+			<a href="https://buonapizzabernardsville.com/" target="_">
+				<img src={`sponsors/bouna.svg`} />
+			</a>
+		</div>
 
 			<h2>Silver Sponsors</h2>
-			<div id={'silver-sponsors'} class="sponsorLogoList" />
-			<h2>Bronze Sponsors</h2>
-			<div id={'bronze-sponsors'} class="sponsorLogoList" />
+			<div id={'silver-sponsors'} class="silverSponsorLogoList">
+			<a href="https://www.ridgemarketing.com/" target="_">
+				<img src={`sponsors/ridge_marketing.png`} />
+			</a>
+				<img src={`sponsors/tulls.png`} />
+				<a href="https://www.leangap.org/" target="_">
+					<img src={`sponsors/leangap.svg`} />
+				</a>
+				<a href="https://stopandshop.com/" target="_">
+					<img src={`sponsors/stopshop.svg`} />
+				</a>
+		</div>
 
+			<h2>Bronze Sponsors</h2>
+			<center>
+			<div id={'bronze-sponsors'} class="bronzeSponsorLogoList">
+
+			<a href="https://www.artofproblemsolving.com/" target="_">
+				<img src={`sponsors/aops.png`} />
+			</a>
+			<a href="https://www.wegmans.com/" target="_">
+				<img src={`sponsors/WegmansLogo.min.svg`} />
+			</a>
+			<a href="https://www.jerseymikes.com/" target="_">
+				<img src={`sponsors/jmikes.png`} />
+			</a>
+			<a href="https://www.echo3d.co/" target="_">
+				<img src={`sponsors/echo3D.png`} />
+			</a>
+			<img src={`/sponsors/balsamiq.png`} />
+		</div>
+	</center>
 			<h2>Past Sponsors</h2>
 			<p>RidgeHacks 2019 and 2022 would not have been possible without these sponsors.</p>
 			<div class="pastSponsorLogoList">
@@ -564,6 +614,27 @@
 	}
 
 	.sponsorLogoList {
+		@include responsive-grid(550px);
+
+		a img {
+			@include responsive-grid-child(550px);
+		}
+	}
+	.goldSponsorLogoList {
+		@include responsive-grid(520px);
+
+		a img {
+			@include responsive-grid-child(600px);
+		}
+	}
+	.silverSponsorLogoList {
+		@include responsive-grid(350px);
+
+		a img {
+			@include responsive-grid-child(550px);
+		}
+	}
+	.bronzeSponsorLogoList {
 		@include responsive-grid(250px);
 
 		a img {
@@ -578,6 +649,7 @@
 			@include responsive-grid-child(150px);
 		}
 	}
+
 
 	.sponsorLogoList,
 	.pastSponsorLogoList {
@@ -634,5 +706,6 @@
 	:global(#sponsors) {
 		background-color: #fffc;
 		color: black;
+		
 	}
 </style>
