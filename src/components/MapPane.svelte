@@ -17,18 +17,27 @@
 			center: [-74.5465931, 40.6948376],
 			zoom: 18
 		});
+		const geolocate = new mapboxgl.GeolocateControl({
+			positionOptions: {
+				enableHighAccuracy: true
+			},
+			trackUserLocation: true,
+			showUserHeading: true
+		});
+		map.addControl(geolocate);
 	});
 </script>
 
-
 <Section id="map">
 	<div class="mapContainer" bind:this={mapContainer} />
+	<h1>Map</h1>
+	<!-- <button>Re-Center</button> -->
 </Section>
 
 <style lang="scss">
 	:global(.section#map) {
 		position: relative;
-		height: 400px;
+		height: 450px;
 		overflow: hidden;
 		justify-content: unset;
 	}
@@ -39,5 +48,6 @@
 	:not(.mapContainer) {
 		z-index: 5;
 		position: relative;
+		text-shadow: 0 0 5px black;
 	}
 </style>

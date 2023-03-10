@@ -47,7 +47,11 @@
 		<a href="#faq">FAQ</a>
 		<a href="#map">Map</a>
 		<a href="#sponsors">Sponsors</a>
-		<a style="color:var(--text-accent);"href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">Register </a>
+		<a
+			style="color:var(--text-accent);"
+			href="https://organize.mlh.io/participants/events/9287-ridgehacks2023"
+			>Register
+		</a>
 	</div>
 	<div class="sections">
 		<Section id="home">
@@ -67,11 +71,11 @@
 
 			<p>
 				<b>
-				Make sure to sign-up
-				<span style="color:var(--text-accent);">
-				<a href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">here!</a>.
-				</span>
-			</b>
+					Make sure to sign-up
+					<span style="color:var(--text-accent);">
+						<a href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">here!</a>.
+					</span>
+				</b>
 			</p>
 		</Section>
 		<Section id="schedule">
@@ -195,7 +199,13 @@
 					<td />
 				</tr>
 			</table>
-			<center><h3><span style="color:var(--text-accent);">Media Center Open for quiet hacking at all times </span></h3></center>
+			<center
+				><h3>
+					<span style="color:var(--text-accent);"
+						>Media Center Open for quiet hacking at all times
+					</span>
+				</h3></center
+			>
 		</Section>
 		<Section id="event-details">
 			<h1><span style="color:var(--text-accent);">Details</span></h1>
@@ -238,7 +248,8 @@
 
 			<FaqElement summary={'Where can I park/where do I enter the building?'}>
 				<p>
-					Please consult the map below. Make sure to enter the building through the Performing Arts Center (PAC).
+					Please consult the map below. Make sure to enter the building through the Performing Arts
+					Center (PAC).
 				</p>
 			</FaqElement>
 
@@ -293,64 +304,62 @@
 
 			<h2>Emerald Sponsors</h2>
 			<div id={'emerald-sponsors'} class="sponsorLogoList">
-			<a href="https://mlh.io/" target="_">
-				<img src={`sponsors/mlh.png`} />
-			</a>
+				<a href="https://mlh.io/" target="_">
+					<img src={`sponsors/mlh.png`} />
+				</a>
 			</div>
 
 			<h2>Gold Sponsors</h2>
 			<div id={'gold-sponsors'} class="goldSponsorLogoList">
-
-			<a href="https://www.njspba.com/" target="_">
-				<img src={`sponsors/PBA.png`} />
-			</a>
-			<a href="https://www.perrottis.com" target="_">
-				<img src={`sponsors/perrottis.png`} />
-			</a>
-			<a href="https://www.bernardscafe.com/" target="_">
-				<img src={`sponsors/bercafe.png`} />
-			</a>
-			<a href="https://automationroboticsarduino.com/" target="_">
-				<img src={`sponsors/gar.png`} />
-			</a>
-			<a href="https://buonapizzabernardsville.com/" target="_">
-				<img src={`sponsors/bouna.svg`} />
-			</a>
-		</div>
+				<a href="https://www.njspba.com/" target="_">
+					<img src={`sponsors/PBA.png`} />
+				</a>
+				<a href="https://www.perrottis.com" target="_">
+					<img src={`sponsors/perrottis.png`} />
+				</a>
+				<a href="https://www.bernardscafe.com/" target="_">
+					<img src={`sponsors/bercafe.png`} />
+				</a>
+				<a href="https://automationroboticsarduino.com/" target="_">
+					<img src={`sponsors/gar.png`} />
+				</a>
+				<a href="https://buonapizzabernardsville.com/" target="_">
+					<img src={`sponsors/bouna.svg`} />
+				</a>
+			</div>
 
 			<h2>Silver Sponsors</h2>
 			<div id={'silver-sponsors'} class="silverSponsorLogoList">
-			<a href="https://www.ridgemarketing.com/" target="_">
-				<img src={`sponsors/ridge_marketing.png`} />
-			</a>
-				<img src={`sponsors/tulls.png`} />
+				<a href="https://www.ridgemarketing.com/" target="_">
+					<img src={`sponsors/ridge_marketing.png`} />
+				</a>
+				<img src={`sponsors/tulls.png`} style="filter: invert(0.9);" />
 				<a href="https://www.leangap.org/" target="_">
 					<img src={`sponsors/leangap.svg`} />
 				</a>
 				<a href="https://stopandshop.com/" target="_">
 					<img src={`sponsors/stopshop.svg`} />
 				</a>
-		</div>
+			</div>
 
 			<h2>Bronze Sponsors</h2>
 			<center>
-			<div id={'bronze-sponsors'} class="bronzeSponsorLogoList">
-
-			<a href="https://www.artofproblemsolving.com/" target="_">
-				<img src={`sponsors/aops.png`} />
-			</a>
-			<a href="https://www.wegmans.com/" target="_">
-				<img src={`sponsors/WegmansLogo.min.svg`} />
-			</a>
-			<a href="https://www.jerseymikes.com/" target="_">
-				<img src={`sponsors/jmikes.png`} />
-			</a>
-			<a href="https://www.echo3d.co/" target="_">
-				<img src={`sponsors/echo3D.png`} />
-			</a>
-			<img src={`/sponsors/balsamiq.png`} />
-		</div>
-	</center>
+				<div id={'bronze-sponsors'} class="bronzeSponsorLogoList">
+					<a href="https://www.artofproblemsolving.com/" target="_">
+						<img src={`sponsors/aops.png`} />
+					</a>
+					<a href="https://www.wegmans.com/" target="_">
+						<img src={`sponsors/WegmansLogo.min.svg`} />
+					</a>
+					<a href="https://www.jerseymikes.com/" target="_">
+						<img src={`sponsors/jmikes.png`} />
+					</a>
+					<a href="https://www.echo3d.co/" target="_">
+						<img src={`sponsors/echo3D.png`} />
+					</a>
+					<img src={`/sponsors/balsamiq.png`} />
+				</div>
+			</center>
 			<h2>Past Sponsors</h2>
 			<p>RidgeHacks 2019 and 2022 would not have been possible without these sponsors.</p>
 			<div class="pastSponsorLogoList">
@@ -414,32 +423,18 @@
 					role="Ridgehacks Club Director"
 					image="akhil.jpg"
 				/>
-				<OrganizerProfile
-					fullName="Kevin Li"
-					role="Director of Education"
-					image="kevin.png"
-				/>
-				<OrganizerProfile
-					fullName="Cy Westbrook"
-					role="Technical Director"
-					image="cy.jpg"
-				/>
+				<OrganizerProfile fullName="Kevin Li" role="Director of Education" image="kevin.png" />
+				<OrganizerProfile fullName="Cy Westbrook" role="Technical Director" image="cy.jpg" />
 				<OrganizerProfile
 					fullName="Rachel Li"
 					role="Lead Graphic Designer"
 					image="placeholder.jpg"
 				/>
-				<OrganizerProfile
-					fullName="Duc Nguyen"
-					role="Lead Coordinator"
-					image="placeholder.jpg"
-
-				/>
+				<OrganizerProfile fullName="Duc Nguyen" role="Lead Coordinator" image="placeholder.jpg" />
 				<OrganizerProfile
 					fullName="Brandon Li"
 					role="Volunteer Coordinator"
 					image="placeholder.jpg"
-
 				/>
 			</div>
 		</Section>
@@ -617,21 +612,21 @@
 		@include responsive-grid(550px);
 
 		a img {
-			@include responsive-grid-child(550px);
+			@include responsive-grid-child(500px);
 		}
 	}
 	.goldSponsorLogoList {
-		@include responsive-grid(520px);
-
-		a img {
-			@include responsive-grid-child(600px);
-		}
-	}
-	.silverSponsorLogoList {
 		@include responsive-grid(350px);
 
 		a img {
-			@include responsive-grid-child(550px);
+			@include responsive-grid-child(400px);
+		}
+	}
+	.silverSponsorLogoList {
+		@include responsive-grid(300px);
+
+		a img {
+			@include responsive-grid-child(300px);
 		}
 	}
 	.bronzeSponsorLogoList {
@@ -649,7 +644,6 @@
 			@include responsive-grid-child(150px);
 		}
 	}
-
 
 	.sponsorLogoList,
 	.pastSponsorLogoList {
@@ -706,6 +700,5 @@
 	:global(#sponsors) {
 		background-color: #fffc;
 		color: black;
-		
 	}
 </style>
