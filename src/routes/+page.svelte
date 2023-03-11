@@ -124,16 +124,16 @@
 				</tr>
 				<tr>
 					<td>12:00 PM</td>
-					<td>Lunch</td>
-					<td />
+					<td>Continue Hacking!</td>
+					<td>Cyber-Case Study Speaker</td>
 					<td />
 					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>1:00 PM</td>
-					<td>Continue Hacking!</td>
-					<td>Verizon Green Tech Speakers</td>
+					<td>Lunch</td>
+					<td></td>
 					<td />
 					<td />
 					<td />
@@ -141,7 +141,7 @@
 				<tr>
 					<td>3:00 PM</td>
 					<td>Continue Hacking!</td>
-					<td>Cyber-Case Study Speaker</td>
+					<td>Verizon Green Tech Speakers</td>
 					<td />
 					<td />
 					<td />
