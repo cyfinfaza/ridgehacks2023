@@ -120,7 +120,7 @@
 				</tr>
 				<tr>
 					<td>11:00 AM</td>
-					<td />
+					<td >Continue Hacking!</td>
 					<td />
 					<td>Web Development Workshop </td>
 					<td />
