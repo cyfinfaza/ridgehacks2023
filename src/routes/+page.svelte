@@ -454,7 +454,7 @@
 		</div>
 
 		<p>
-			<small>Ridge High School Hackathon, April 9th</small> <br />
+			<small>Ridge High School Hackathon, April 1st</small> <br />
 			<small>268 S Finley Ave, Basking Ridge, NJ 07920</small>
 			<br />
 			<small>
