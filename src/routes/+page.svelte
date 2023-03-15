@@ -151,18 +151,18 @@
 					<td />
 				</tr>
 				<tr>
-					<td>5:00 PM</td>
-					<td>Continue Hacking!</td>
-					<td />
-					<td>CS Carrier Speaker</td>
-					<td />
-					<td />
-				</tr>
-				<tr>
 					<td>6:00 PM</td>
 					<td>Dinner</td>
 					<td />
 					<td />
+					<td />
+					<td />
+				</tr>
+				<tr>
+					<td>7:00 PM</td>
+					<td>Continue Hacking!</td>
+					<td />
+					<td>CS Carrier Speaker</td>
 					<td />
 					<td />
 				</tr>
