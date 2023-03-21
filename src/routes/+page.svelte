@@ -111,13 +111,6 @@
 					<td>EEC Speaker</td><td />
 				</tr>
 				<tr>
-					<td>10:00 AM</td>
-					<td></td>
-					<td />
-					<td />
-					<td></td><td />
-				</tr>
-				<tr>
 					<td>11:00 AM</td>
 					<td ></td>
 					<td />
