@@ -108,7 +108,6 @@
 					<td>Hacking begins</td>
 					<td></td>
 					<td />
-					<td />
 					<td>EEC Speaker</td><td />
 				</tr>
 				<tr>
