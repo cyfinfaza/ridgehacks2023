@@ -97,7 +97,7 @@
 					<td />
 				</tr>
 				<tr>
-					<td>8:30 AM</td>
+					<td>8:15 AM</td>
 					<td />
 					<td />
 					<td />
@@ -106,21 +106,21 @@
 				<tr>
 					<td>9:00 AM</td>
 					<td>Hacking begins</td>
-					<td>Python Workshop</td>
-					<td />
-					<td />
-					<td />
-				</tr>
-				<tr>
-					<td>10:00 AM</td>
-					<td>Continue Hacking!</td>
+					<td></td>
 					<td />
 					<td />
 					<td>EEC Speaker</td><td />
 				</tr>
 				<tr>
+					<td>10:00 AM</td>
+					<td></td>
+					<td />
+					<td />
+					<td></td><td />
+				</tr>
+				<tr>
 					<td>11:00 AM</td>
-					<td >Continue Hacking!</td>
+					<td ></td>
 					<td />
 					<td>Web Development Workshop </td>
 					<td />
@@ -128,7 +128,7 @@
 				</tr>
 				<tr>
 					<td>12:00 PM</td>
-					<td>Continue Hacking!</td>
+					<td></td>
 					<td>Cyber-Case Study Speaker</td>
 					<td />
 					<td />
@@ -144,7 +144,7 @@
 				</tr>
 				<tr>
 					<td>3:00 PM</td>
-					<td>Continue Hacking!</td>
+					<td></td>
 					<td>Verizon Green Tech Speakers</td>
 					<td />
 					<td />
@@ -160,9 +160,9 @@
 				</tr>
 				<tr>
 					<td>7:00 PM</td>
-					<td>Continue Hacking!</td>
+					<td></td>
 					<td />
-					<td>CS Carrier Speaker</td>
+					<td>CS Career Speaker</td>
 					<td />
 					<td />
 				</tr>
