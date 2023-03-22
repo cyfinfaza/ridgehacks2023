@@ -13,6 +13,23 @@
 	});
 </script>
 
+<svelte:head>
+	<title>RidgeHacks 2023</title>
+	<meta
+		name="description"
+		content="Ridgehacks 2023 is Ridge High School's premier annual Hackathon led by the Ridge Computer Science Club."
+	/>
+	<meta property="og:title" content="RidgeHacks 2023" />
+	<meta
+		property="og:description"
+		content="Ridgehacks 2023 is Ridge High School's premier annual Hackathon led by the Ridge Computer Science Club."
+	/>
+	<meta
+		property="og:image"
+		content="https://ridgecompsci.club/images/ridgehacks_background_graphic.svg"
+	/>
+</svelte:head>
+
 <main class="container" class:scrolled>
 	<a
 		class="logo"
