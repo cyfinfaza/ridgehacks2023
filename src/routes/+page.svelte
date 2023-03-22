@@ -217,6 +217,23 @@
 				</h3></center
 			>
 		</Section>
+		<Section id="speakers">
+			<h1>Speakers</h1>
+			<div class="bronzeSponsorLogoList">
+				<a href="https://www.somersetcountyparks.org/" target="_">
+					<img src={`speakers/scpc.png`} />
+				</a>
+				<a href="https://verizon.com" target="_">
+					<img src={`speakers/verizon.svg`} />
+				</a>
+				<a href="https://www.bernards.org/departments/police" target="_">
+					<img src={`speakers/btpd.jpg`} />
+				</a>
+				<a href="https://usj.edu" target="_">
+					<img src={`speakers/usj.webp`} />
+				</a>
+			</div>
+		</Section>
 		<Section id="event-details">
 			<h1><span style="color:var(--text-accent);">Details</span></h1>
 			<div>
@@ -309,23 +326,6 @@
 			</FaqElement>
 		</Section>
 		<MapPane />
-		<Section id="speakers">
-			<h1>Speakers</h1>
-			<div class="bronzeSponsorLogoList">
-				<a href="https://www.somersetcountyparks.org/" target="_">
-					<img src={`speakers/scpc.png`} />
-				</a>
-				<a href="https://verizon.com" target="_">
-					<img src={`speakers/verizon.svg`} />
-				</a>
-				<a href="https://www.bernards.org/departments/police" target="_">
-					<img src={`speakers/btpd.jpg`} />
-				</a>
-				<a href="https://usj.edu" target="_">
-					<img src={`speakers/usj.webp`} />
-				</a>
-			</div>
-		</Section>
 		<Section id={'sponsors'}>
 			<h1>Sponsors</h1>
 			<p>Looking to sponsor? Contact us at team@ridgehacks.us.</p>
