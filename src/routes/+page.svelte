@@ -46,6 +46,7 @@
 		<a href="#what-is-a-hackathon">What is a Hackathon?</a>
 		<a href="#faq">FAQ</a>
 		<a href="#map">Map</a>
+		<a href="#speakers">Speakers</a>
 		<a href="#sponsors">Sponsors</a>
 		<a
 			style="color:var(--text-accent);"
@@ -106,13 +107,13 @@
 				<tr>
 					<td>9:00 AM</td>
 					<td>Hacking begins</td>
-					<td></td>
+					<td />
 					<td />
 					<td>EEC Speaker</td><td />
 				</tr>
 				<tr>
 					<td>11:00 AM</td>
-					<td ></td>
+					<td />
 					<td />
 					<td>Web Development Workshop </td>
 					<td />
@@ -120,7 +121,7 @@
 				</tr>
 				<tr>
 					<td>12:00 PM</td>
-					<td></td>
+					<td />
 					<td>Cyber-Case Study Speaker</td>
 					<td />
 					<td />
@@ -129,14 +130,14 @@
 				<tr>
 					<td>1:00 PM</td>
 					<td>Lunch</td>
-					<td></td>
+					<td />
 					<td />
 					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>3:00 PM</td>
-					<td></td>
+					<td />
 					<td>Verizon Green Tech Speakers</td>
 					<td />
 					<td />
@@ -152,7 +153,7 @@
 				</tr>
 				<tr>
 					<td>7:00 PM</td>
-					<td></td>
+					<td />
 					<td />
 					<td>CS Career Speaker</td>
 					<td />
@@ -207,8 +208,9 @@
 				</p>
 				<p>
 					<span style="color:var(--text-accent);"><strong>Who can attend:</strong></span> Any Middle
-					school or High School student who's down to make something awesome. Or anything tech, or programming
-					related really (please reach out if you are an elementary student interested in attending).
+					school or High School student (grades 6-12) who's down to make something awesome. Or anything
+					tech, or programming related really (please reach out if you are an elementary student interested
+					in attending).
 				</p>
 				<p>
 					<span style="color:var(--text-accent);"><strong>Cost to attend:</strong> </span>Free!
@@ -290,6 +292,23 @@
 			</FaqElement>
 		</Section>
 		<MapPane />
+		<Section id="speakers">
+			<h1>Speakers</h1>
+			<div class="bronzeSponsorLogoList">
+				<a href="https://www.somersetcountyparks.org/" target="_">
+					<img src={`speakers/scpc.png`} />
+				</a>
+				<a href="https://verizon.com" target="_">
+					<img src={`speakers/verizon.svg`} />
+				</a>
+				<a href="https://www.bernards.org/departments/police" target="_">
+					<img src={`speakers/btpd.jpg`} />
+				</a>
+				<a href="https://usj.edu" target="_">
+					<img src={`speakers/usj.webp`} />
+				</a>
+			</div>
+		</Section>
 		<Section id={'sponsors'}>
 			<h1>Sponsors</h1>
 			<p>Looking to sponsor? Contact us at team@ridgehacks.us.</p>
@@ -689,7 +708,7 @@
 		margin-bottom: 1rem;
 	}
 
-	:global(#sponsors) {
+	:global(#sponsors, #speakers) {
 		background-color: #fffc;
 		color: black;
 	}
