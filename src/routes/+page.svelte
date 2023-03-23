@@ -135,6 +135,14 @@
 					<td />
 				</tr>
 				<tr>
+					<td>2:00 PM</td>
+					<td></td>
+					<td></td>
+					<td>Open CV Workshop</td>
+					<td />
+					<td />
+				</tr>
+				<tr>
 					<td>3:00 PM</td>
 					<td></td>
 					<td>Verizon Green Tech Speakers</td>
