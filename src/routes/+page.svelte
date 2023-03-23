@@ -13,6 +13,23 @@
 	});
 </script>
 
+<svelte:head>
+	<title>RidgeHacks 2023</title>
+	<meta
+		name="description"
+		content="Ridgehacks 2023 is Ridge High School's premier annual Hackathon led by the Ridge Computer Science Club."
+	/>
+	<meta property="og:title" content="RidgeHacks 2023" />
+	<meta
+		property="og:description"
+		content="Ridgehacks 2023 is Ridge High School's premier annual Hackathon led by the Ridge Computer Science Club."
+	/>
+	<meta
+		property="og:image"
+		content="https://ridgecompsci.club/images/ridgehacks_background_graphic.svg"
+	/>
+</svelte:head>
+
 <main class="container" class:scrolled>
 	<a
 		class="logo"
@@ -46,6 +63,7 @@
 		<a href="#what-is-a-hackathon">What is a Hackathon?</a>
 		<a href="#faq">FAQ</a>
 		<a href="#map">Map</a>
+		<a href="#speakers">Speakers</a>
 		<a href="#sponsors">Sponsors</a>
 		<a
 			style="color:var(--text-accent);"
@@ -106,13 +124,13 @@
 				<tr>
 					<td>9:00 AM</td>
 					<td>Hacking begins</td>
-					<td></td>
+					<td />
 					<td />
 					<td>EEC Speaker</td><td />
 				</tr>
 				<tr>
 					<td>11:00 AM</td>
-					<td ></td>
+					<td />
 					<td />
 					<td>Web Development Workshop </td>
 					<td />
@@ -120,7 +138,7 @@
 				</tr>
 				<tr>
 					<td>12:00 PM</td>
-					<td></td>
+					<td />
 					<td>Cyber-Case Study Speaker</td>
 					<td />
 					<td />
@@ -129,7 +147,7 @@
 				<tr>
 					<td>1:00 PM</td>
 					<td>Lunch</td>
-					<td></td>
+					<td />
 					<td />
 					<td />
 					<td />
@@ -144,7 +162,7 @@
 				</tr>
 				<tr>
 					<td>3:00 PM</td>
-					<td></td>
+					<td />
 					<td>Verizon Green Tech Speakers</td>
 					<td />
 					<td />
@@ -160,7 +178,7 @@
 				</tr>
 				<tr>
 					<td>7:00 PM</td>
-					<td></td>
+					<td />
 					<td />
 					<td>CS Career Speaker</td>
 					<td />
@@ -207,6 +225,23 @@
 				</h3></center
 			>
 		</Section>
+		<Section id="speakers">
+			<h1>Speakers</h1>
+			<div class="bronzeSponsorLogoList">
+				<a href="https://www.somersetcountyparks.org/" target="_">
+					<img src={`speakers/scpc.png`} />
+				</a>
+				<a href="https://verizon.com" target="_">
+					<img src={`speakers/verizon.svg`} />
+				</a>
+				<a href="https://www.bernards.org/departments/police" target="_">
+					<img src={`speakers/btpd.jpg`} />
+				</a>
+				<a href="https://usj.edu" target="_">
+					<img src={`speakers/usj.webp`} />
+				</a>
+			</div>
+		</Section>
 		<Section id="event-details">
 			<h1><span style="color:var(--text-accent);">Details</span></h1>
 			<div>
@@ -215,8 +250,9 @@
 				</p>
 				<p>
 					<span style="color:var(--text-accent);"><strong>Who can attend:</strong></span> Any Middle
-					school or High School student who's down to make something awesome. Or anything tech, or programming
-					related really (please reach out if you are an elementary student interested in attending).
+					school or High School student (grades 6-12) who's down to make something awesome. Or anything
+					tech, or programming related really (please reach out if you are an elementary student interested
+					in attending).
 				</p>
 				<p>
 					<span style="color:var(--text-accent);"><strong>Cost to attend:</strong> </span>Free!
@@ -697,7 +733,7 @@
 		margin-bottom: 1rem;
 	}
 
-	:global(#sponsors) {
+	:global(#sponsors, #speakers) {
 		background-color: #fffc;
 		color: black;
 	}
