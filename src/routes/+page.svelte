@@ -119,11 +119,11 @@
 					<td />
 					<td />
 					<td />
-					<td>Opening Ceremony</td>
+					<td style="color:var(--text-accent);">Opening Ceremony</td>
 				</tr>
 				<tr>
 					<td>9:00 AM</td>
-					<td>Hacking begins</td>
+					<td style="color:var(--text-accent);">Hacking begins</td>
 					<td />
 					<td />
 					<td>EEC Speaker</td><td />
@@ -146,7 +146,7 @@
 				</tr>
 				<tr>
 					<td>1:00 PM</td>
-					<td>Lunch</td>
+					<td style="color:var(--text-accent);">Lunch</td>
 					<td />
 					<td />
 					<td />
@@ -169,8 +169,24 @@
 					<td />
 				</tr>
 				<tr>
+					<td>4:00 PM</td>
+					<td />
+					<td></td>
+					<td>Cybersecurity Workshop</td>
+					<td />
+					<td />
+				</tr>
+				<tr>
+					<td>5:00 PM</td>
+					<td />
+					<td></td>
+					<td>Consumer Repair Workshop</td>
+					<td />
+					<td />
+				</tr>
+				<tr>
 					<td>6:00 PM</td>
-					<td>Dinner</td>
+					<td style="color:var(--text-accent);">Dinner</td>
 					<td />
 					<td />
 					<td />
@@ -186,7 +202,7 @@
 				</tr>
 				<tr>
 					<td>8:00 PM</td>
-					<td>Hardstop Hacking</td>
+					<td style="color:var(--text-accent);">Hardstop Hacking</td>
 					<td />
 					<td />
 					<td />
@@ -210,7 +226,7 @@
 				</tr>
 				<tr>
 					<td>10:00 PM</td>
-					<td>Event Ends</td>
+					<td style="color:var(--text-accent);">Event Ends</td>
 					<td />
 					<td />
 					<td />
