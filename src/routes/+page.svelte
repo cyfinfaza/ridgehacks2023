@@ -132,7 +132,7 @@
 					<td>11:00 AM</td>
 					<td />
 					<td />
-					<td>Web Development Workshop </td>
+					<td>Web Development Workshop sponsored Leangap</td>
 					<td />
 					<td />
 				</tr>
@@ -146,7 +146,7 @@
 				</tr>
 				<tr>
 					<td>1:00 PM</td>
-					<td style="color:var(--text-accent);">Lunch</td>
+					<td style="color:var(--text-accent);">Lunch (and smash tournament)</td>
 					<td />
 					<td />
 					<td />
@@ -172,7 +172,7 @@
 					<td>4:00 PM</td>
 					<td />
 					<td></td>
-					<td>Cybersecurity Workshop</td>
+					<td>Cybersecurity Workshop sponsored by the PBA</td>
 					<td />
 					<td />
 				</tr>
@@ -180,13 +180,13 @@
 					<td>5:00 PM</td>
 					<td />
 					<td></td>
-					<td>Consumer Repair Workshop</td>
+					<td>Consumer Repair Workshop sponsored by Ridge Ridge Marketing</td>
 					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>6:00 PM</td>
-					<td style="color:var(--text-accent);">Dinner</td>
+					<td style="color:var(--text-accent);">Dinner (and chess tournament)</td>
 					<td />
 					<td />
 					<td />
