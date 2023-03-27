@@ -128,27 +128,35 @@
 					<td style="color:var(--text-accent);">Hacking begins</td>
 					<td />
 					<td />
-					<td>EEC Speaker</td><td />
+					<td style="color:var(--text-accent);">EEC Speaker</td><td />
+				</tr>
+				<tr>
+					<td>10:00 AM</td>
+					<td />
+					<td />
+					<td>Consumer Repair Workshop sponsored by Tulls Automotive</td>
+					<td />
+					<td />
 				</tr>
 				<tr>
 					<td>11:00 AM</td>
 					<td />
 					<td />
-					<td>Web Development Workshop sponsored Leangap</td>
+					<td>Web Development Workshop sponsored by Ridge Marketing</td>
 					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>12:00 PM</td>
 					<td />
-					<td>Cyber-Case Study Speaker</td>
+					<td><span style="color:var(--text-accent);">Cyber-Case Study </span> presented by Detective Phil Jasina</td>
 					<td />
 					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>1:00 PM</td>
-					<td style="color:var(--text-accent);">Lunch (and smash tournament)</td>
+					<td><span style="color:var(--text-accent);">Lunch</span> (and Super Smash Bros Tournament)</td>
 					<td />
 					<td />
 					<td />
@@ -157,15 +165,15 @@
 				<tr>
 					<td>2:00 PM</td>
 					<td></td>
+					<td><span style="color:var(--text-accent);">Android App Development</span> presented by Professor Sheusi</td>
 					<td></td>
-					<td>Open CV Workshop</td>
 					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>3:00 PM</td>
 					<td />
-					<td>Verizon Green Tech Speakers</td>
+					<td ><span style="color:var(--text-accent);">Green Tech in Industry</span> - a Verizon overview</td>
 					<td />
 					<td />
 					<td />
@@ -174,15 +182,15 @@
 					<td>4:00 PM</td>
 					<td />
 					<td></td>
-					<td>Cybersecurity Workshop sponsored by the PBA</td>
+					<td>Cybersecurity Workshop sponsored by the Bernards PBA</td>
 					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>5:00 PM</td>
 					<td />
+					<td> <span style="color:var(--text-accent);">The Future of Programming </span>by Professor Thomas Calabrese</td>
 					<td></td>
-					<td>Consumer Repair Workshop sponsored by Ridge Ridge Marketing</td>
 					<td />
 					<td />
 				</tr>
@@ -198,7 +206,7 @@
 					<td>7:00 PM</td>
 					<td />
 					<td />
-					<td>CS Career Speaker</td>
+					<td> <span style="color:var(--text-accent);"> CS as Job? </span> Experences from Industry by Chad Wiedemann</td>
 					<td />
 					<td />
 				</tr>
