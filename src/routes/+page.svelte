@@ -322,7 +322,7 @@
 
 			<FaqElement summary={'How long is the event? When is it? Where is it?'}>
 				<p>
-					It's on April 1st, 2022 from 8:00AM-10:00PM. It's at Ridge High School. You can find the
+					It's on April 1st, 2023 from 8:00AM-10:00PM. It's at Ridge High School. You can find the
 					address for our hackathon
 					<a href="#event-details">here</a>.
 				</p>
