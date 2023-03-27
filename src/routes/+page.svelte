@@ -480,13 +480,13 @@
 				<OrganizerProfile
 					fullName="Rachel Li"
 					role="Lead Graphic Designer"
-					image="placeholder.jpg"
+					image="rachel.jpg"
 				/>
-				<OrganizerProfile fullName="Duc Nguyen" role="Lead Coordinator" image="placeholder.jpg" />
+				<OrganizerProfile fullName="Duc Nguyen" role="Lead Coordinator" image="duc.jpg" />
 				<OrganizerProfile
 					fullName="Brandon Li"
 					role="Volunteer Coordinator"
-					image="placeholder.jpg"
+					image="brandon.jpg"
 				/>
 			</div>
 		</Section>
