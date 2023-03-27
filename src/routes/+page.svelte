@@ -65,6 +65,8 @@
 		<a href="#map">Map</a>
 		<a href="#speakers">Speakers</a>
 		<a href="#sponsors">Sponsors</a>
+		<a href="#organizers">Organizers</a>
+
 		<a
 			style="color:var(--text-accent);"
 			href="https://organize.mlh.io/participants/events/9287-ridgehacks2023"
@@ -457,7 +459,7 @@
 				<img src={`/sponsors/sketch.png`} />
 			</div>
 		</Section>
-		<Section>
+		<Section id={'organizers'}>
 			<h1>The Organizers</h1>
 			<div class="organizersList">
 				<OrganizerProfile
@@ -482,7 +484,7 @@
 					role="Lead Graphic Designer"
 					image="rachel.jpg"
 				/>
-				<OrganizerProfile fullName="Duc Nguyen" role="Lead Coordinator" image="duc.jpg" />
+				<OrganizerProfile fullName="Duc Nguyen" role="Lead Coordinator" image="duc.png" />
 				<OrganizerProfile
 					fullName="Brandon Li"
 					role="Volunteer Coordinator"
