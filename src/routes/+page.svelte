@@ -203,6 +203,14 @@
 					<td />
 				</tr>
 				<tr>
+					<td>6:30 PM</td>
+					<td></td>
+					<td />
+					<td style="color:var(--text-accent);">Judges Meeting</td>
+					<td />
+					<td />
+				</tr>
+				<tr>
 					<td>7:00 PM</td>
 					<td />
 					<td />
