@@ -132,7 +132,7 @@
 				</tr>
 				<tr>
 					<td>10:00 AM</td>
-					<td />
+					<td style="color:var(--text-accent);">Breakfast</td>
 					<td />
 					<td>Consumer Repair Workshop sponsored by Tulls Automotive</td>
 					<td />
