@@ -196,7 +196,7 @@
 				</tr>
 				<tr>
 					<td>6:00 PM</td>
-					<td style="color:var(--text-accent);">Dinner (and chess tournament)</td>
+					<td ><span style="color:var(--text-accent);">Dinner</span> (and chess tournament)</td>
 					<td />
 					<td />
 					<td />
