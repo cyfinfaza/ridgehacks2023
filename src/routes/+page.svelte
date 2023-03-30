@@ -142,7 +142,7 @@
 					<td>11:00 AM</td>
 					<td />
 					<td />
-					<td>Web Development Workshop sponsored by Ridge Marketing</td>
+					<td>Open CV Workshop sponsored by Ridge Marketing</td>
 					<td />
 					<td />
 				</tr>
