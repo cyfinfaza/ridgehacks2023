@@ -91,6 +91,9 @@
 				>!
 			</p>
 			<p>
+				Make sure you all have your team cards (the one with the numbers)! They are used for judging and are really important. If you need a card see Rachel in the Cafe.
+			</p>
+			<p>
 				<a
 					href="https://docs.google.com/presentation/d/1TeJ7UoQT1B_7H1wG8oYHfigU8R6-nhqcVEvJ4UdKAHE/edit?usp=sharing"
 					>Find the opening ceremony slides here.</a
