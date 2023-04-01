@@ -98,7 +98,7 @@
 				<span style="font-weight:400;">April 1st, 2023</span>
 			</h1>
 			<p>
-				Ridgehacks 2023 is Ridge High School's premier annual Hackathon led by the Ridge Computer
+				Ridgehacks 2023 is Ridge High School's premier annual hackathon led by the Ridge Computer
 				Science Club. Following a single day, <b> 12-hour hacking schedule </b>, Ridgehacks offers a
 				free hackathon for Middle and High School Students from <b>8:00 AM until 10:00 PM</b>.
 
@@ -111,7 +111,7 @@
 				<b>
 					Make sure to sign-up
 					<span style="color:var(--text-accent);">
-						<a href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">here!</a>.
+						<a href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">here</a>!
 					</span>
 				</b>
 			</p>
@@ -120,7 +120,7 @@
 				<b>
 					Join our Discord server for announcements
 					<span style="color:var(--text-accent);">
-						<a href="https://discord.gg/NDpKwGG5Np">here!</a>.
+						<a href="https://discord.gg/NDpKwGG5Np">here</a>!
 					</span>
 				</b>
 			</p>
@@ -261,7 +261,7 @@
 					<td />
 					<td>
 						<a href="/speaker-bios#chad">
-							<span style="color:var(--text-accent);"> CS as Job? </span> Experences from Industry by
+							<span style="color:var(--text-accent);"> CS as Job? </span> Experiences from Industry by
 							Chad Wiedemann
 						</a>
 					</td>
@@ -334,8 +334,8 @@
 					<span style="color:var(--text-accent);"><strong>Date:</strong> </span> April 1st, 2023
 				</p>
 				<p>
-					<span style="color:var(--text-accent);"><strong>Who can attend:</strong></span> Any Middle
-					school or High School student (grades 6-12) who's down to make something awesome. Or anything
+					<span style="color:var(--text-accent);"><strong>Who can attend:</strong></span> Any middle
+					school or high school student (grades 6-12) who's down to make something awesome. Or anything
 					tech, or programming related really (please reach out if you are an elementary student interested
 					in attending).
 				</p>
