@@ -77,6 +77,12 @@
 	<div class="sections">
 		<Section>
 			<h1>Welcome to RidgeHacks!</h1>
+			<h2>
+				<a
+					href="https://docs.google.com/forms/d/e/1FAIpQLSekopTc0AU_lBIM7SUytQc3h2x4-I8izBuy6ANoIM9_-Kpgnw/viewform?usp=sf_link"
+					>LINK TO SUBMISSION FORM</a
+				>
+			</h2>
 			<p>
 				Please make sure you have filled out the <a
 					href="https://organize.mlh.io/participants/events/9287-ridgehacks2023"
