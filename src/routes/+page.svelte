@@ -83,6 +83,7 @@
 				>
 				and our <a href="https://tally.so/r/3Eqe02">Tally Form</a> in order to participate.
 			</p>
+			<p>Please proceed to the PAC for the opening ceremony!</p>
 		</Section>
 		<Section id="home">
 			<h1>
