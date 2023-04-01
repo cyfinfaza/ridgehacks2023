@@ -84,12 +84,17 @@
 				>
 				and our <a href="https://tally.so/r/3Eqe02" target="_blank">Tally Form</a> in order to participate.
 			</p>
-			<p>Please proceed to the PAC for the opening ceremony!</p>
 			<p>
 				Have a song request for the cafeteria playlist? Submit them <a
 					href="https://docs.google.com/forms/d/e/1FAIpQLScOLYt7Vt1GvwdISSwu6JPIqDmZlDSThTNtXAN3wrG2t9Bzyw/viewform?usp=sf_link"
 					target="_blank">here</a
 				>!
+			</p>
+			<p>
+				<a
+					href="https://docs.google.com/presentation/d/1TeJ7UoQT1B_7H1wG8oYHfigU8R6-nhqcVEvJ4UdKAHE/edit?usp=sharing"
+					>Find the opening ceremony slides here.</a
+				>
 			</p>
 		</Section>
 		<Section id="home">
