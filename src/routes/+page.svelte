@@ -232,7 +232,7 @@
 				<tr>
 					<td>4:00 PM</td>
 					<td />
-					<td>Web Development with Svelte</td>
+					<td>CSS Workshop - Make web project look decent</td>
 					<td>Cybersecurity Workshop sponsored by the Bernards PBA</td>
 					<td />
 					<td />
