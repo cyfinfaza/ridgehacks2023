@@ -86,12 +86,13 @@
 			</p>
 			<p>
 				Have a song request for the cafeteria playlist? Submit them <a
-					href="https://docs.google.com/forms/d/e/1FAIpQLScOLYt7Vt1GvwdISSwu6JPIqDmZlDSThTNtXAN3wrG2t9Bzyw/viewform?usp=sf_link"
+					href="https://forms.gle/St5Pi9tH2sMmTjhF8"
 					target="_blank">here</a
 				>!
 			</p>
 			<p>
-				Make sure you all have your team cards (the one with the numbers)! They are used for judging and are really important. If you need a card see Rachel in the Cafe.
+				Make sure you all have your team cards (the one with the numbers)! They are used for judging
+				and are really important. If you need a card see Rachel in the Cafe.
 			</p>
 			<p>
 				<a
@@ -224,14 +225,14 @@
 							><span style="color:var(--text-accent);">Green Tech in Industry</span> - a Verizon overview
 						</a>
 					</td>
-					<td> Web Development with Svelte </td>
+					<td />
 					<td />
 					<td />
 				</tr>
 				<tr>
 					<td>4:00 PM</td>
 					<td />
-					<td />
+					<td>Web Development with Svelte</td>
 					<td>Cybersecurity Workshop sponsored by the Bernards PBA</td>
 					<td />
 					<td />
