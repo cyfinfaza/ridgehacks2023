@@ -221,7 +221,7 @@
 							><span style="color:var(--text-accent);">Green Tech in Industry</span> - a Verizon overview
 						</a>
 					</td>
-					<td />
+					<td> Web Development with Svelte </td>
 					<td />
 					<td />
 				</tr>
