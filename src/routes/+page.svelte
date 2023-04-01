@@ -75,6 +75,15 @@
 		</a>
 	</div>
 	<div class="sections">
+		<Section>
+			<h1>Welcome to RidgeHacks!</h1>
+			<p>
+				Please make sure you have filled out the <a
+					href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">MLH Form</a
+				>
+				and our <a href="https://tally.so/r/3Eqe02">Tally Form</a> in order to participate.
+			</p>
+		</Section>
 		<Section id="home">
 			<h1>
 				<span style="color:var(--text-accent);"> RidgeHacks 2023</span> -
