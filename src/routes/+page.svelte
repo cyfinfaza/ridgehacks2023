@@ -107,6 +107,15 @@
 					</span>
 				</b>
 			</p>
+
+			<p>
+				<b>
+					Join our Discord server for announcements
+					<span style="color:var(--text-accent);">
+						<a href="https://discord.gg/NDpKwGG5Np">here!</a>.
+					</span>
+				</b>
+			</p>
 		</Section>
 		<Section id="schedule">
 			<h1><span style="color:var(--text-accent);">Schedule </span></h1>
