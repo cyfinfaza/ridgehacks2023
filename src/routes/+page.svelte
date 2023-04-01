@@ -79,11 +79,18 @@
 			<h1>Welcome to RidgeHacks!</h1>
 			<p>
 				Please make sure you have filled out the <a
-					href="https://organize.mlh.io/participants/events/9287-ridgehacks2023">MLH Form</a
+					href="https://organize.mlh.io/participants/events/9287-ridgehacks2023"
+					target="_blank">MLH Form</a
 				>
-				and our <a href="https://tally.so/r/3Eqe02">Tally Form</a> in order to participate.
+				and our <a href="https://tally.so/r/3Eqe02" target="_blank">Tally Form</a> in order to participate.
 			</p>
 			<p>Please proceed to the PAC for the opening ceremony!</p>
+			<p>
+				Have a song request for the Cafeteria playlist? Submit them <a
+					href="https://docs.google.com/forms/d/e/1FAIpQLScOLYt7Vt1GvwdISSwu6JPIqDmZlDSThTNtXAN3wrG2t9Bzyw/viewform?usp=sf_link"
+					target="_blank">here</a
+				>!
+			</p>
 		</Section>
 		<Section id="home">
 			<h1>
