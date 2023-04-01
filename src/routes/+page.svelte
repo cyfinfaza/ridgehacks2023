@@ -86,7 +86,7 @@
 			</p>
 			<p>Please proceed to the PAC for the opening ceremony!</p>
 			<p>
-				Have a song request for the Cafeteria playlist? Submit them <a
+				Have a song request for the cafeteria playlist? Submit them <a
 					href="https://docs.google.com/forms/d/e/1FAIpQLScOLYt7Vt1GvwdISSwu6JPIqDmZlDSThTNtXAN3wrG2t9Bzyw/viewform?usp=sf_link"
 					target="_blank">here</a
 				>!
