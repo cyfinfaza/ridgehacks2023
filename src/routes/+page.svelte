@@ -564,6 +564,11 @@
 				<OrganizerProfile fullName="Rachel Li" role="Lead Graphic Designer" image="rachel.jpg" />
 				<OrganizerProfile fullName="Duc Nguyen" role="Lead Coordinator" image="duc.png" />
 				<OrganizerProfile fullName="Brandon Li" role="Volunteer Coordinator" image="brandon.jpg" />
+				<OrganizerProfile
+					fullName="Vienna Li"
+					role="Cybersecurity Workshop Director"
+					image="vienna.jpg"
+				/>
 			</div>
 		</Section>
 	</div>
